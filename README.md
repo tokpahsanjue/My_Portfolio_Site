@@ -1,2 +1,2 @@
-# My_Portfolio_Site
-About Me
+# my-portfolio
+This is my portfolio repository
